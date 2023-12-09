@@ -1,0 +1,5 @@
+Information Dimension : The map is a size of 10 X 20
+Number of Initialization operations : 400
+Prim Operation Number : 800
+Brushstroke : 741
+Total number of operations : 1941
